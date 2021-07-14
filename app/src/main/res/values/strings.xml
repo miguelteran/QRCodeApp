@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QR</string>
+
+    <string name="qr_scanned_dialog_message">Item successfully scanned:</string>
+    <string name="qr_scanned_dialog_button">OK</string>
+
+</resources>
